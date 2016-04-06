@@ -1,0 +1,72 @@
+request body = <TemplateSMS>
+                    <to>18674469015</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>6484</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=BDB99D7591A769ED397D47EE20BD6E67
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160405214807</dateCreated><smsMessageSid>524d00f73d334189be6719d264d26360</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18674469015</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>8752</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=1BB3E403CE757F030FDDDB07E9A4E9A5
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160405224703</dateCreated><smsMessageSid>f9cc22a77cdc4f68867982ac1f46d608</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18674469015</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>1391</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=A1ECA8B7514BBB6426C35D92CDB5DB74
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160405225318</dateCreated><smsMessageSid>202427e0471f44e0a3fab9ff8848172c</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18674469015</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>1391</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=C259257547C6A6B3933011BE97190C14
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160405225550</dateCreated><smsMessageSid>68256f8eeeee451fa44e87cde2f669d1</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18674469015</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>770136</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=150E8AAFED3EADF63EDA24EEE559EC4A
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160040</statusCode><statusMsg>验证码超出同模板同号码天发送上限</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18674802602</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>227394</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=413091A766E8DAD8E1B1E015F097C720
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160405230118</dateCreated><smsMessageSid>65004b71e7804d088b3733ba1860e202</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18674469015</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>947203</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=F973CC60936E21BDD9880443D4A78D26
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160406112425</dateCreated><smsMessageSid>2431b3ea1c1041718b331c23950cba94</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18674469015</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>947203</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=04886D181CEA4F48D5A9D84DCF94FC0E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160038</statusCode><statusMsg>短信验证码发送过频繁</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18674469015</to> 
+                    <appId>aaf98f894f2b36f5014f2b3b9cd10011</appId>
+                    <templateId>33893</templateId>
+                    <datas><data>947203</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/aaf98f894f16fdb7014f2b0e29821ab4/SMS/TemplateSMS?sig=9516CBBE86E9CD6716DF9C4557964974
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160406112635</dateCreated><smsMessageSid>cdc718c4227b4fe0beb5ed1b77d20809</smsMessageSid></TemplateSMS></Response>
